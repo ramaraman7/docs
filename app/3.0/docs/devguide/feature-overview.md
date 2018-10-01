@@ -39,6 +39,7 @@ class XCustom extends PolymerElement {
   static get properties() {
     return {
       greeting: {
+       Hi
         type: String
       }
     }
